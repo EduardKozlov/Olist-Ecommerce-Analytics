@@ -68,7 +68,7 @@ Used SQLite to independently validate key Power BI calculations through:
 
 ## 5. Executive Dashboard
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 The dashboard provides a nationwide overview of delivery performance.
 
@@ -98,7 +98,7 @@ São Paulo and Rio de Janeiro together accounted for approximately 50.7% of all 
 
 ## 6. Root Cause Analysis — Minas Gerais
 
-![Root Cause Analysis](Screenshots/Root_Cause_Analysis.png)
+![Root Cause Analysis](Root_Cause_Analysis.png)
 
 A significant deterioration in delivery performance was identified in Minas Gerais between February and March 2018.
 
