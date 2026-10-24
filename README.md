@@ -70,6 +70,8 @@ Used SQLite to independently validate key Power BI calculations through:
 
 ![Executive Overview](Executive_Overview.png)
 
+[Download the Power BI Dashboard](PowerBI/Olist_Delivery_Analytics.pbix)
+
 The dashboard provides a nationwide overview of delivery performance.
 
 ### Key Performance Indicators
