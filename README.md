@@ -209,8 +209,7 @@ The main results calculated in SQLite matched the corresponding Power BI results
 - Olist_SQL_Project.sqbpro
 - Executive_Overview.png
 - Root_Cause_Analysis.png
-
-**README.md** — Project documentation
+- README.md — Project documentation
 
 **RawData/** — Original Olist CSV files (local; download from Kaggle)
 
