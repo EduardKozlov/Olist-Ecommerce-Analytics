@@ -198,7 +198,7 @@ The main results calculated in SQLite matched the corresponding Power BI results
 
 - Olist_Delivery_Analytics.pbix
 
-**SQL/**
+**main/**
 
 - 01_delivery_classification.sql
 - 02_national_kpi.sql
@@ -207,9 +207,6 @@ The main results calculated in SQLite matched the corresponding Power BI results
 - 05_mg_analysis.sql
 - Olist_Portfolio.db
 - Olist_SQL_Project.sqbpro
-
-**Screenshots/**
-
 - Executive_Overview.png
 - Root_Cause_Analysis.png
 
